@@ -67,7 +67,7 @@ Business Recommendations
 
 ### Dashboard Overview
 
-![Dashboard Overview](dashboard/Impact of Contact attempts on student.png)
+![Dashboard Overview](dashboard/Impact_of_Contact_attempts_on_student.png)
 
 ### Workload Analysis
 
