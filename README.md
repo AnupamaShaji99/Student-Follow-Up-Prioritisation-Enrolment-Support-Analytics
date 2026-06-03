@@ -67,15 +67,11 @@ Business Recommendations
 
 ### Dashboard Overview
 
-![Dashboard Overview](dashboard/.png)
+![Dashboard Overview](dashboard/Impact of Contact attempts on student.png)
 
 ### Workload Analysis
 
-![Workload Analysis](dashboard/workload_analysis.png)
-
-### Progression Outcomes
-
-![Progression Outcomes](dashboard/progression_outcomes.png)
+![Workload Analysis](dashboard/KPI cards, follow up workload by academic event & by program.png)
 
 ---
 
