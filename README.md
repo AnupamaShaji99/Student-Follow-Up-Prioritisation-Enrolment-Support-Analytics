@@ -71,7 +71,9 @@ Business Recommendations
 
 ### Workload Analysis
 
-![Workload Analysis](dashboard/KPI cards, follow up workload by academic event & by program.png)
+![Workload Analysis](dashboard/KPI_cards_follow_up_workload_by_academic_event_&_by_program.png)
+
+
 
 ---
 
