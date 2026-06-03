@@ -95,18 +95,6 @@ Business Recommendations
 - Implement risk-based follow-up workflows.
 - Monitor progression outcomes through ongoing dashboard reporting.
 
----
-
-## Repository Structure
-
-```text
-README.md
-sql/
-python/
-dashboard/
-screenshots/
-documentation/
-```
 
 ---
 
