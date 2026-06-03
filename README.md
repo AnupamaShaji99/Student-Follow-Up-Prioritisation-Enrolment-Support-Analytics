@@ -65,7 +65,17 @@ Business Recommendations
 
 ## Dashboard Preview
 
-*Screenshots will be added here.*
+### Dashboard Overview
+
+![Dashboard Overview](dashboard/.png)
+
+### Workload Analysis
+
+![Workload Analysis](dashboard/workload_analysis.png)
+
+### Progression Outcomes
+
+![Progression Outcomes](dashboard/progression_outcomes.png)
 
 ---
 
