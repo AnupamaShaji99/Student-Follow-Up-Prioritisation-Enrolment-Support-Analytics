@@ -77,6 +77,8 @@ Business Recommendations
 ### Priority Distribution And Progression Analysis
 ![Priority Distribution And Progression Analysis](dashboard/priority_distribution_by_student_status_progression_outcomes_by_student_status.png)
 
+![Priority Distribution And Progression Analysis](dashboard/)
+
 
 ---
 ## Predictive Modelling Results
