@@ -67,15 +67,15 @@ Business Recommendations
 
 ### Dashboard Overview
 
-![Dashboard Overview](dashboard/Impact_of_Contact_attempts_on_student.png)
+![Dashboard Overview](dashboard/dashboardoverview.png)
 
 
 
 
 ### Priority Distribution And Progression Analysis
-![Priority Distribution And Progression Analysis](dashboard/priority_distribution_by_student_status_progression_outcomes_by_student_status.png)
+![Priority Distribution And Progression Analysis](dashboard/PriorityDistributionbystudentstatus.png)
 
-![Priority Distribution And Progression Analysis](dashboard/progression_outcomes_by_outstanding_action.png)
+![Priority Distribution And Progression Analysis](dashboard/Progressionoutcomebystudentstatus.png)
 
 
 ---
