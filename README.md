@@ -63,6 +63,35 @@ Business Recommendations
 
 ---
 
+
+## Predictive Modelling
+
+A Random Forest Classifier was developed to predict whether a student would progress or stall within the enrolment lifecycle. The model utilised operational and engagement-related features including student status, follow-up priority, outstanding actions, contact attempts, program information, academic events, and days until commencement.
+
+### Model Performance
+
+| Metric                 | Score |
+| ---------------------- | ----- |
+| Accuracy               | 68%   |
+| Precision (Progressed) | 67%   |
+| Recall (Progressed)    | 95%   |
+| F1 Score (Progressed)  | 79%   |
+
+The model demonstrated strong capability in identifying students likely to progress, achieving a recall of 95% for progressed students. This indicates that the model successfully captured the majority of students who ultimately progressed through the enrolment process.
+
+### Confusion Matrix Analysis
+
+The confusion matrix highlights the model's prediction outcomes across progressed and stalled students. While the model performed well in identifying progressed students, performance was lower for stalled students, suggesting that class imbalance may have influenced prediction accuracy.
+
+### Feature Importance
+
+Feature importance analysis identified Follow-Up Priority, Outstanding Actions, and Contact Attempts as the strongest predictors of student progression outcomes. These findings support the operational importance of targeted interventions and timely follow-up activities within the student conversion process.
+
+### Limitations and Future Improvements
+
+The model showed stronger performance for progressed students than stalled students, indicating opportunities for further improvement through class-balancing techniques, hyperparameter tuning, and additional feature engineering. Future iterations could also explore alternative machine learning algorithms to improve identification of at-risk students.
+
+
 ## Dashboard Preview
 
 ### Dashboard Overview
