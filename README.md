@@ -85,6 +85,8 @@ Business Recommendations
 
 ![Predictive Modelling Results](dashboard/confusionmatrix.png)
 
+![Predictive Modelling Results](dashboard/metricstable.png)
+
 ---
 
 
