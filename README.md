@@ -86,6 +86,8 @@ Business Recommendations
 
 ---
 
+![Predictive Modelling Results](Screenshot_20260605020053.png)
+
 ## Business Recommendations
 
 - Prioritise intervention during high-volume intake periods.
