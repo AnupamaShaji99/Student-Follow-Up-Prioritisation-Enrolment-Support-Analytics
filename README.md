@@ -74,9 +74,11 @@ Business Recommendations
 ![Workload Analysis](dashboard/KPI_cards_follow_up_workload_by_academic_event_&_by_program.png)
 
 
+### Priority Distribution And Progression Analysis
+![Priority Distribution And Progression Analysis](dashboard/priority_distribution_and_Progression_Outcome_by_student_status.png)
+
 
 ---
-
 ## Predictive Modelling Results
 
 ![Predictive Modelling Results](dashboard/predictive_modelling_result.png)
