@@ -84,7 +84,7 @@ Business Recommendations
 
 ## Predictive Modelling Results
 
-![Predictive Modelling Results](predictive_modelling_result.png)
+![Predictive Modelling Results](dashboard/predictive_modelling_result.png)
 
 ---
 
