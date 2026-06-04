@@ -84,7 +84,7 @@ Business Recommendations
 
 ## Predictive Modelling Results
 
-*Model performance metrics and evaluation results will be added here.*
+![Predictive Modelling Results](predictive_modelling_result.png)
 
 ---
 
